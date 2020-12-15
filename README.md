@@ -9,13 +9,13 @@ This is a personal blogging website where you can create and share your opinions
 
 
 ## My Blogs
-The user would like to.... :<br>
+1.The user would like to.... :<br>
 
-View the blog posts on the site<br>
-Comment on blog posts<br>
-View the most recent posts<br>
-An email alert when a new post is made by joining a subscription.<br>
-See random quotes on the site<br>
+2.View the blog posts on the site<br>
+3.Comment on blog posts<br>
+4.View the most recent posts<br>
+5.An email alert when a new post is made by joining a subscription.<br>
+6.See random quotes on the site<br>
 
 
 The writer would like to... :<br>
