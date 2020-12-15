@@ -19,11 +19,11 @@ This is a personal blogging website where you can create and share your opinions
 
 
 The writer would like to... :<br>
-see random quotes on the site<br>
-sign in to the blog.<br>
-create a blog from the application.<br>
-delete comments that I find insulting or degrading.<br>
-update or delete blogs I have created.<br>
+1.see random quotes on the site<br>
+2.sign in to the blog.<br>
+3.create a blog from the application.<br>
+4.delete comments that I find insulting or degrading.<br>
+5.update or delete blogs I have created.<br>
 
 
  ## Setup Installation
