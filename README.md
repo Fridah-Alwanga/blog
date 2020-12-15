@@ -40,9 +40,9 @@ To run the application, in your terminal:<br>
 
 
 ## Technology used
-Python3.7<br>
-Flask<br>
-Heroku<br>
+1.Python3.7<br>
+2.Flask<br>
+3.Heroku<br>
 
 
 ## Contact Information
