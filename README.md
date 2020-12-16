@@ -44,6 +44,7 @@ To run the application, in your terminal:<br>
 2.Flask<br>
 3.Heroku<br>
 4.Bootstrap <br>
+5.Html <br>
 
 
 
