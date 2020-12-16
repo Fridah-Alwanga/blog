@@ -43,7 +43,8 @@ To run the application, in your terminal:<br>
 1.Python3.7<br>
 2.Flask<br>
 3.Heroku<br>
-4.Bootstrap
+4.Bootstrap <br>
+
 
 
 ## Contact Information
